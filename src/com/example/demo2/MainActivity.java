@@ -11,7 +11,7 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.SimpleCursorAdapter;
 import android.widget.AdapterView.OnItemClickListener;
-
+//test commit
 public class MainActivity extends Activity {
 	@Override
 	public void onCreate(Bundle icicle) {
